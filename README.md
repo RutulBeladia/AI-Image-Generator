@@ -1,3 +1,7 @@
+
+# Getting Started:-  https://ai-imagenerator.netlify.app
+
+
 ![Screenshot 2024-03-06 183933](https://github.com/RutulBeladia/AI-Image-Generator/assets/133772715/5eab5f9e-3700-4d53-8c0e-1817622a4e7e)
 ![Screenshot 2024-03-06 180454](https://github.com/RutulBeladia/AI-Image-Generator/assets/133772715/4c770e84-9743-4455-a481-2dc9e56e806f)
 ![Screenshot 2024-03-06 180258](https://github.com/RutulBeladia/AI-Image-Generator/assets/133772715/01d8f04b-dd98-45bf-80bf-d44fc4877594)
